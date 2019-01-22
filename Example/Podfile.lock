@@ -1,0 +1,16 @@
+PODS:
+  - CYTimerManager (0.1.0)
+
+DEPENDENCIES:
+  - CYTimerManager (from `../`)
+
+EXTERNAL SOURCES:
+  CYTimerManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYTimerManager: 54c63de12bb8af82276970be175738c0c163a413
+
+PODFILE CHECKSUM: 052e074ab296b43612be7c8d96bee607701e5f3f
+
+COCOAPODS: 1.5.0
